@@ -1,14 +1,14 @@
 <h3>Snapshot:</h3>
 <div align="center">
  <p float="left">
-  <img src="" width="800" height="1000"/>
+  <img src="https://user-images.githubusercontent.com/38814709/59162942-15ecf100-8b13-11e9-90a5-55709446b2f8.png" width="700" height="1000"/>
 	 <br/>
 	</p>
 </div>
 <br>
-<h3>Madmin:</h3>
+<h3>BizLand:</h3>
 <p>
-	Madmin is a most interactive project Javascript & JQuery.Used canvas.js for chart.Include Animation,Progress,Form,Pagination etc.
+	BizLand is a full screen landing page which is business consulting theme.Used in ScrollFire,Animation,Goole Map etc.
 </p>
 
 
